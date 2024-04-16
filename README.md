@@ -20,6 +20,7 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 ## Program:
 ```
+``
 /*
 Program to implement the K Means Clustering for Customer Segmentation.
 Developed by: M. R. ANUMITHA
@@ -75,6 +76,7 @@ plt.grid(True)
 plt.axis('equal')
 plt.show()
 ```
+``
 ## Output:
 ![K Means Clustering for Customer Segmentation](sam.png)
 
